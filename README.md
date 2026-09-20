@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Glauedson/Glauedson/main/p5r-banner.gif" alt="Persona 5 Banner" width="100%" style="border-radius: 8px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6ZjRqdzBucDRrdGRpOXByMWxmdTFnOHc3dnA2OHM0bXNpaHRlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m23fThlThO1lC/giphy.gif" alt="Persona 5 Banner" width="100%" style="border-radius: 8px;"/>
 
   <br/><br/>
 
@@ -25,7 +25,7 @@
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-843b-25211565191e.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ6MG8wOGJ0ZmluMmpxY3gxdm16ZnlhbWVzNzMxeXlsZHZ0dXFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kC8ziBByS3L7q/giphy.gif" width="100%" height="4px"/>
 
   <br/><br/>
 
@@ -38,7 +38,7 @@
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-843b-25211565191e.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ6MG8wOGJ0ZmluMmpxY3gxdm16ZnlhbWVzNzMxeXlsZHZ0dXFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kC8ziBByS3L7q/giphy.gif" width="100%" height="4px"/>
 
   <br/><br/>
 
@@ -104,7 +104,7 @@
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-843b-25211565191e.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ6MG8wOGJ0ZmluMmpxY3gxdm16ZnlhbWVzNzMxeXlsZHZ0dXFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kC8ziBByS3L7q/giphy.gif" width="100%" height="4px"/>
 
   <br/><br/>
 
@@ -114,15 +114,4 @@
 
   <p align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Menezxs&show_icons=true&theme=blood&bg_color=000000&hide_border=true&title_color=D31221&icon_color=D31221&text_color=ffffff" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menezxs&layout=compact&theme=blood&bg_color=000000&hide_border=true&title_color=D31221&text_color=ffffff" />
-  </p>
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/Glauedson/Glauedson/main/p5-take-your-time.gif" width="180px" />
-
-  <br/><br/>
-
-  <p><i>Take Your Time... 🃏</i></p>
-
-</div>
+    <img height="165em" src="https://github-readme-
